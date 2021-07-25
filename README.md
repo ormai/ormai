@@ -1,1 +1,1 @@
-Tryng to learn something cool. 
+Learing something cool
