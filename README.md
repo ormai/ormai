@@ -2,4 +2,6 @@
 
 \- Umberto Eco
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=godfr3y&count_private=true&theme=gruvbox&showicons=true)](https://github.com/godfr3y) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=godfr3y&layout=compact&langs_count=5&theme=gruvbox)](https://github.com/godfr3y)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=godfr3y&count_private=true&theme=gruvbox&showicons=true)](https://github.com/godfr3y) 
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=godfr3y&layout=compact&langs_count=5&theme=gruvbox)](https://github.com/godfr3y)
